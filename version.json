@@ -1,5 +1,5 @@
 {
-  "version": "4.0.0",
+  "version": "4.0.5",
   "zxp": "https://raw.githubusercontent.com/finportofolio/finmotion-update/main/FIN_MOTION.zxp",
-  "notes": "FIN MOTION 4.0: MacBook ID endi o'zgarmaydi. Tariflar: 1 oylik 50 000 (kuniga 2 subtitr + 1 AI video), 12 oylik 350 000 (cheklovsiz). Sinovi tugaganlarga +1 kun sovg'a."
+  "notes": "FIN MOTION 4.0.5: Subtitr ranglarida yangi \"Yo'q\" tugmasi - matn, kontur, aktiv so'z yoki fonni bir bosishda ko'rinmas qiladi (AE va Premiere). Premiere subtitr oynasi to'liq - 19 animatsiya (Premiere o'zi bajaradi), 33 shrift, ranglar, fon va effektlar. Yangi Glow (nur) bo'limi - 11 xil neon/glow. Premiere'da SRT fayldan qo'yish. AI subtitrga Gemini qo'shildi."
 }
