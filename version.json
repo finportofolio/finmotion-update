@@ -1,5 +1,5 @@
 {
-  "version": "4.0.5",
+  "version": "4.0.6",
   "zxp": "https://raw.githubusercontent.com/finportofolio/finmotion-update/main/FIN_MOTION.zxp",
-  "notes": "FIN MOTION 4.0.5: Subtitr ranglarida yangi \"Yo'q\" tugmasi - matn, kontur, aktiv so'z yoki fonni bir bosishda ko'rinmas qiladi (AE va Premiere). Premiere subtitr oynasi to'liq - 19 animatsiya (Premiere o'zi bajaradi), 33 shrift, ranglar, fon va effektlar. Yangi Glow (nur) bo'limi - 11 xil neon/glow. Premiere'da SRT fayldan qo'yish. AI subtitrga Gemini qo'shildi."
+  "notes": "FIN MOTION 4.0.6: AI subtitr va Claude yana ishlaydi (yangi xavfsiz server). 12 oylik tarifda limit chiqib qolish xatosi tuzatildi. Qurilma ID barqarorroq. Mac: qora to'rtburchak (ekran xatosi) tuzatildi, iPhone videolaridan subtitr. Loyiha saqlanganda limit yemaydi. Yangi: VIP butun umrlik tarif va 1 kunlik PRO."
 }
