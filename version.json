@@ -1,5 +1,5 @@
 {
-  "version": "4.0.6",
+  "version": "4.0.7",
   "zxp": "https://raw.githubusercontent.com/finportofolio/finmotion-update/main/FIN_MOTION.zxp",
-  "notes": "FIN MOTION 4.0.6: AI subtitr va Claude yana ishlaydi (yangi xavfsiz server). 12 oylik tarifda limit chiqib qolish xatosi tuzatildi. Qurilma ID barqarorroq. Mac: qora to'rtburchak (ekran xatosi) tuzatildi, iPhone videolaridan subtitr. Loyiha saqlanganda limit yemaydi. Yangi: VIP butun umrlik tarif va 1 kunlik PRO."
+  "notes": "FIN MOTION 4.0.7: AI subtitr ancha aniqroq - o'zbek nutqini Gemini to'g'ri yozadi. Imlo tuzatgich endi so'zlarga noto'g'ri apostrof qo'ymaydi (B'r-b'r'lan kabi xatolar tuzatildi)."
 }
