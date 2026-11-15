@@ -1,5 +1,5 @@
 {
-  "version": "4.0.7",
+  "version": "4.0.8",
   "zxp": "https://raw.githubusercontent.com/finportofolio/finmotion-update/main/FIN_MOTION.zxp",
-  "notes": "FIN MOTION 4.0.7: AI subtitr ancha aniqroq - o'zbek nutqini Gemini to'g'ri yozadi. Imlo tuzatgich endi so'zlarga noto'g'ri apostrof qo'ymaydi (B'r-b'r'lan kabi xatolar tuzatildi)."
+  "notes": "FIN MOTION 4.0.8: Claude montaj qilayotganda panelda jonli ko'rinadi (Videolar kesilmoqda...). 164 ta yangi animatsiya: matn, layer va kadr o'tishlari, kamera, Glow Write-on. Liquid Glass chiroyliroq va chiziqsiz. AI subtitr tezroq (yangi modellar). Freesound bloklangan bo'lsa FIN serveri orqali. Claude uchun yangi kreativ montaj skillari."
 }
